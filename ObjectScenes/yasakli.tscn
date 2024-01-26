@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://c88v3d8pu8sqe"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_p4nt1"]
+transparency = 1
+albedo_color = Color(1, 0, 0, 0.360784)
+
+[sub_resource type="BoxMesh" id="BoxMesh_hofnd"]
+
+[node name="Yasakli" type="MeshInstance3D"]
+material_override = SubResource("StandardMaterial3D_p4nt1")
+mesh = SubResource("BoxMesh_hofnd")

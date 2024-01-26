@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://cq7r0oo51877b"]
+
+[ext_resource type="ArrayMesh" uid="uid://c4t5demj2sqjt" path="res://Models/isaret.obj" id="1_8jj43"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_2p36u"]
+albedo_color = Color(0.427451, 0, 0.658824, 1)
+
+[node name="isaret" type="Node3D"]
+
+[node name="isaret" type="MeshInstance3D" parent="."]
+material_override = SubResource("StandardMaterial3D_2p36u")
+mesh = ExtResource("1_8jj43")

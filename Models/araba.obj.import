@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqa8k2g4b8b62"
+path="res://.godot/imported/araba.obj-a6e953b055abf48c70e10ff9d0e09511.mesh"
+
+[deps]
+
+files=["res://.godot/imported/araba.obj-a6e953b055abf48c70e10ff9d0e09511.mesh"]
+
+source_file="res://Models/araba.obj"
+dest_files=["res://.godot/imported/araba.obj-a6e953b055abf48c70e10ff9d0e09511.mesh", "res://.godot/imported/araba.obj-a6e953b055abf48c70e10ff9d0e09511.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
